@@ -1,7 +1,12 @@
 # Task 021trade - Watchlist Management App
 
 A Flutter application for managing stock watchlists with real-time data visualization, reordering capabilities, and seamless navigation between watchlists.
-
+## 📸 App Screenshots
+<p align="center">
+  <img src="assets/Screenshot1.png" width="250"/>
+  <img src="assets/Screenshot2.png" width="250"/>
+  <img src="assets/Screenshot3.png" width="250"/>
+</p>
 ## 📱 Features
 
 ### Core Functionality
@@ -33,12 +38,6 @@ A Flutter application for managing stock watchlists with real-time data visualiz
 - **Custom Widgets**: Specialized widgets for watchlist-specific functionality
 - **Responsive Design**: Adaptive layouts for different screen sizes
 
-## 📸 App Screenshots
-<p align="center">
-  <img src="assets/Screenshot1.png" width="250"/>
-  <img src="assets/Screenshot2.png" width="250"/>
-  <img src="assets/Screenshot3.png" width="250"/>
-</p>
 ### Main Watchlist Screen
 ![Main Watchlist Screen](assets/Screenshot1.png)
 
