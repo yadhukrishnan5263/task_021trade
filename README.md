@@ -39,7 +39,6 @@ A Flutter application for managing stock watchlists with real-time data visualiz
 - **Responsive Design**: Adaptive layouts for different screen sizes
 
 ### Main Watchlist Screen
-![Main Watchlist Screen](assets/Screenshot1.png)
 
 The main screen displays:
 - Market indices (SENSEX, NIFTY BANK) with real-time data
@@ -49,7 +48,6 @@ The main screen displays:
 - Bottom navigation for app navigation
 
 ### Edit Watchlist Screen
-![Edit Watchlist Screen](assets/Screenshot2.png)
 
 The edit screen provides:
 - Watchlist name editing with inline updates
@@ -59,7 +57,6 @@ The edit screen provides:
 - Save functionality with confirmation
 
 ### Stock Reordering Interface
-![Stock Reordering](assets/Screenshot3.png)
 
 Reordering features include:
 - Touch-friendly drag handles
